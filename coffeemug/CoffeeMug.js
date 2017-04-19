@@ -1,4 +1,3 @@
-/*TEST*/
 $(function () {
     
    
@@ -21,9 +20,9 @@ $(function () {
     var PathToPicture1;
     var PathToPicture2;
     var TotalPrice;
-	alert("1");
 
-// Reset all Variables function on reload 
+// Reset all Variables function on reload   
+
 function setVars(){
 //productLeft = "http://i.imgur.com/yKlEkUb.png";
 productLeft = "coffeemug/img/left.png";
@@ -48,7 +47,6 @@ UserImageOrig1Exists = false;
 UserImageOrig2Exists = false;
 }
     
-   
    
  
 //EVENT HANDLERS
